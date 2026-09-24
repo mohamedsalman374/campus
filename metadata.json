@@ -1,0 +1,6 @@
+{
+  "name": "CampusCare - Student Grievance & Complaint Portal",
+  "description": "Report, track, and resolve campus complaints. Official grievance redressing system for students, faculty, and campus infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
